@@ -1,5 +1,7 @@
-const Person = require("./person");
+/* eslint-disable no-console */
 
-const chuks = new Person("chuks festus")
+import Person from './person';
+
+const chuks = new Person('chuks festus');
 
 console.log(chuks.intro());

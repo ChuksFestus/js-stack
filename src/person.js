@@ -1,11 +1,9 @@
-class Person {
-    constructor(name) {
-        this.name = name
-    }
+export default class {
+  constructor(name) {
+    this.name = name;
+  }
 
-    intro() {
-        return `my name is ${this.name}`
-    }
+  intro() {
+    return `hi am ${this.name} by name`;
+  }
 }
-
-module.exports = Person
