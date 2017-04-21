@@ -1,0 +1,9 @@
+{
+  "name": "js-stack",
+  "version": "1.0.0",
+  "description": "full stack js development",
+  "main": "index.js",
+  "repository": "https://github.com/ChuksFestus/js-stack.git",
+  "author": "chuks festus <cutogu@gmail.com>",
+  "license": "MIT"
+}
