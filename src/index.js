@@ -1,3 +1,5 @@
-const name = "chuks festus";
+const Person = require("./person");
 
-console.log(`welcome back ${name}`);
+const chuks = new Person("chuks festus")
+
+console.log(chuks.intro());
